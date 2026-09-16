@@ -11,3 +11,7 @@ Eis a descrição de cada arquivo:
 * `Montagem_do_app.pdf`: imagens dos botões que compõe a maior parte do aplicativo.
 
 Design e código do jogo: Ricardo Mendonça Ferreira.
+
+Captura de tela:
+
+![Captura da tela 2 do app](Captura_de_tela.png)
