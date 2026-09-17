@@ -8,3 +8,7 @@ Use os links para ver e editar o respectivo projeto no Scratch (requer conexão 
 Imagens geradas com ChatGPT.
 
 Design e código: Ricardo Mendonça Ferreira.
+
+Captura de tela:
+
+![Captura de tela](Captura_de_tela.png)
