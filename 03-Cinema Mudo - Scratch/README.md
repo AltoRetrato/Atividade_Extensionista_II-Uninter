@@ -4,8 +4,8 @@ Neste jogo, os participantes se dividem em 2 grupos. A cada rodada, um integrant
 
 Principais arquivos:
 * `.png` e `.jpg`: os assets do jogo (criados por mim e via ChatGPT).
-* `Cinema Mudo (completo).sb3`: backup do jogo completo (pode ser importado no Scratch).
-* `Cinema Mudo (incompleto).sb3`: backup do jogo incompleto, usado pelos alunos na atividade pedagógica (pode ser importado no Scratch).
+* ([Link](https://scratch.mit.edu/projects/1379967642/)) `Cinema Mudo (completo).sb3`: backup do jogo completo (pode ser importado no Scratch). Usado apenas para apresentar aos alunos o funcionamento da versão final do jogo.
+* ([Link](https://scratch.mit.edu/projects/1381138320/)) `Cinema Mudo (incompleto).sb3`: backup do jogo incompleto, usado pelos alunos na atividade pedagógica (pode ser importado no Scratch).
 * `acertou.mp3`: áudio do botão "Acertou" (fonte: [Pixabay](https://pixabay.com/sound-effects/film-special-effects-goodresult-82807/)).
 * `pular.mp3`: áudio do botão "Pulou" (fonte: [Pixabay](https://pixabay.com/sound-effects/film-special-effects-sad-trumpet-278822/)).
 * `timer.mp3`: áudio quando acaba o tempo (fonte: [Pixabay](https://pixabay.com/sound-effects/film-special-effects-buzzer-or-wrong-answer-20582/)).
@@ -15,9 +15,11 @@ Principais arquivos:
 Design e código do jogo: Ricardo Mendonça Ferreira.
 
 Capturas de tela:
-
-* !(Tela 1)[Captura_de_tela_1.jpg]
-
-!(Tela 1)[Captura_de_tela_1.jpg]
-
+---
 ![Tela 1](Captura_de_tela_1.jpg)
+---
+![Tela 2](Captura_de_tela_2.jpg)
+---
+![Tela 3](Captura_de_tela_3.jpg)
+---
+![Tela 4](Captura_de_tela_4.jpg)
