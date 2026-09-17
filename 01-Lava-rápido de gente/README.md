@@ -7,6 +7,8 @@ Aqui há as imagens usadas no jogo (geradas com ChatGPT) e arquivos `.SB3` de tr
 
 Use os links para ver e editar o respectivo projeto no Scratch (requer conexão com a Internet).
 
+O arquivo `Material_aula_01-Link_e_estados.pdf` foi distribuído aos alunos no início da aula, contendo o link para abrirem o aplicativo e uma ilustração relacionando o "estado do jogo" (um número de 1 a 5) com o respectivo desenho do personagem em cada estado (sendo 1 = "seco e sujo", 2 = "sujo e molhado", etc.).
+
 Design e código: Ricardo Mendonça Ferreira.
 
 Captura de tela:
